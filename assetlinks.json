@@ -1,0 +1,17 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.venovani.venovani",
+            "sha256_cert_fingerprints": [
+                "90:89:69:FE:81:F3:33:17:E5:B0:C6:AD:90:EA:58:6C:93:A1:8C:C0:11:53:DA:A8:E8:E3:0F:C3:5E:B7:75:C4",
+                "CF:C9:2B:AC:C4:B2:CF:F7:69:11:DA:DF:E2:77:90:B6:CF:1C:99:35:77:8B:98:38:E7:05:AC:DD:50:0D:8C:99",
+                "B3:D8:CA:93:F0:A4:68:0B:89:2E:02:1F:C9:6A:59:A9:D3:8B:B3:E1:42:99:58:1B:8D:B2:DB:8D:43:F1:40:82",
+                "F9:72:BB:BD:23:FF:E9:F8:15:6A:10:C2:0E:57:B6:78:E2:E3:94:87:41:52:7C:99:86:86:81:9F:F6:12:C1:E4"
+            ]
+        }
+    }
+  ]

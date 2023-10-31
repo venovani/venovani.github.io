@@ -2,10 +2,13 @@
   "applinks": {
       "apps": [],
       "details": [
-      {
-        "appID": "2SJVUXZJ85.com.venovani.venovani-ios",
-        "paths": ["/joinMemory/*"]
-      }
-    ]
+          {
+              "appID": "2SJVUXZJ85.com.venovani.venovani-ios",
+              "paths": [
+                  "NOT /_/*",
+                  "/*"
+              ]
+          }
+      ]
   }
 }

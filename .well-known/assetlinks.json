@@ -1,14 +1,17 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.venovani.venovani",
-      "sha256_cert_fingerprints":
-      [
-        "f9:72:bb:bd:23:ff:e9:f8:15:6a:10:c2:0e:57:b6:78:e2:e3:94:87:41:52:7c:99:86:86:81:9f:f6:12:c1:e4",
-        "b3:d8:ca:93:f0:a4:68:0b:89:2e:02:1f:c9:6a:59:a9:d3:8b:b3:e1:42:99:58:1b:8d:b2:db:8d:43:f1:40:82",
-        "cf:c9:2b:ac:c4:b2:cf:f7:69:11:da:df:e2:77:90:b6:cf:1c:99:35:77:8b:98:38:e7:05:ac:dd:50:0d:8c:99",
-        "90:89:69:fe:81:f3:33:17:e5:b0:c6:ad:90:ea:58:6c:93:a1:8c:c0:11:53:da:a8:e8:e3:0f:c3:5e:b7:75:c4"
-      ]
-    }
-  }]
+[
+  {
+      "relation": [
+          "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+          "namespace": "android_app",
+          "package_name": "com.venovani.venovani",
+          "sha256_cert_fingerprints": [
+              "90:89:69:FE:81:F3:33:17:E5:B0:C6:AD:90:EA:58:6C:93:A1:8C:C0:11:53:DA:A8:E8:E3:0F:C3:5E:B7:75:C4",
+              "CF:C9:2B:AC:C4:B2:CF:F7:69:11:DA:DF:E2:77:90:B6:CF:1C:99:35:77:8B:98:38:E7:05:AC:DD:50:0D:8C:99",
+              "B3:D8:CA:93:F0:A4:68:0B:89:2E:02:1F:C9:6A:59:A9:D3:8B:B3:E1:42:99:58:1B:8D:B2:DB:8D:43:F1:40:82",
+              "F9:72:BB:BD:23:FF:E9:F8:15:6A:10:C2:0E:57:B6:78:E2:E3:94:87:41:52:7C:99:86:86:81:9F:F6:12:C1:E4"
+          ]
+      }
+  }
+]
